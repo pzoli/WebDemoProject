@@ -5,4 +5,5 @@ yarn install
 
 ## Run
 yarn web
+
 yarn android
